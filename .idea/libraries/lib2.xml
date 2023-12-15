@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GUIQuiz/dist/lib/Lernquiz.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GUIQuiz/dist/lib/Fragenverwaltung.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Fragenverwaltung">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fragenverwaltung/dist/Fragenverwaltung.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

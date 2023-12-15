@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Lernquiz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java Projects/Lernquiz/dist/Lernquiz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
