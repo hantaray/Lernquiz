@@ -15,8 +15,8 @@ A desktop app I created to learn IT questions.
 
 ## Run
 
--> Download the "Ready Program" folder and execute the Quiz.jar
--> You will be asked to select the 04quizfragen.csv
+-> Download the "Ready Program" folder and execute the Quiz.jar</br>
+-> You will be asked to select the 04quizfragen.csv</br>
 -> You can edit, delete and add new Question with the build-in question-manager 
 
 
